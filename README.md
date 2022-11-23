@@ -11,5 +11,5 @@ addStudent, which accepts one student parameter and assigns it to the correspond
 average, computes and returns the average of all enrolled students’ averages;
 printStudents, which prints the list of all enrolled students names.
 Create an application to instantiate 5 Student objects and 2 Course objects which exercise ALL methods in both classes. To submit, include also the UML diagram and example run.
-THe book pdf link: file:///C:/Users/Ayele/Downloads/John%20Lewis,%20William%20Loftus%20-%20Java%20Software%20Solutions_%20Foundations%20of%20Program%20Design%20(7th%20Edition)%20%20-Addison%20Wesley%20(2011).pdf
+THe book pdf link: 
 the code start on listing 7.5
